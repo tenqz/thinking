@@ -10,8 +10,6 @@ Essays by Oleg Patsay: architecture, engineering leadership, and AI in developme
 
 Site: [opatsay.com](https://opatsay.com/) · Telegram: [t.me/opatsay](https://t.me/opatsay)
 
-Counts come from CI: `scripts/stats.py` runs on every push to `main` and publishes badge SVG files on the `badges` branch.
-
 ## About
 
 I'm Oleg Patsay, a software engineer and engineering leader with more than a decade of experience building backend systems, evolving complex software and leading engineering teams.
