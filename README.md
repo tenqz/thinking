@@ -1,16 +1,16 @@
 # Thinking
 
-[![en](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftenqz%2Fthinking%2Fbadges%2Fen.json)](https://github.com/tenqz/thinking/tree/main/en)
-[![en words](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftenqz%2Fthinking%2Fbadges%2Fen-words.json)](https://github.com/tenqz/thinking/tree/main/en)
-[![ru](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftenqz%2Fthinking%2Fbadges%2Fru.json)](https://github.com/tenqz/thinking/tree/main/ru)
-[![ru words](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftenqz%2Fthinking%2Fbadges%2Fru-words.json)](https://github.com/tenqz/thinking/tree/main/ru)
-[![stats](https://github.com/tenqz/thinking/actions/workflows/stats.yml/badge.svg)](https://github.com/tenqz/thinking/actions/workflows/stats.yml)
+[![en](https://raw.githubusercontent.com/tenqz/thinking/badges/en.svg)](https://github.com/tenqz/thinking/tree/main/en)
+[![en words](https://raw.githubusercontent.com/tenqz/thinking/badges/en-words.svg)](https://github.com/tenqz/thinking/tree/main/en)
+[![ru](https://raw.githubusercontent.com/tenqz/thinking/badges/ru.svg)](https://github.com/tenqz/thinking/tree/main/ru)
+[![ru words](https://raw.githubusercontent.com/tenqz/thinking/badges/ru-words.svg)](https://github.com/tenqz/thinking/tree/main/ru)
+[![stats](https://img.shields.io/github/actions/workflow/status/tenqz/thinking/stats.yml?branch=main&label=stats)](https://github.com/tenqz/thinking/actions/workflows/stats.yml)
 
 Essays by Oleg Patsay: architecture, engineering leadership, and AI in development.
 
 Site: [opatsay.com](https://opatsay.com/) · Telegram: [t.me/opatsay](https://t.me/opatsay)
 
-Counts come from CI: `scripts/stats.py` runs on every push to `main` and publishes Shields.io endpoints on the `badges` branch.
+Counts come from CI: `scripts/stats.py` runs on every push to `main` and publishes badge SVG files on the `badges` branch.
 
 ## About
 
