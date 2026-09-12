@@ -1,0 +1,35 @@
+{
+  "en": {
+    "locale": "en",
+    "essays": 10,
+    "words_written": 43422,
+    "files": [
+      "2025-10-04-qdrant-php-client-vector-search.md",
+      "2026-01-11-atomic-commits-acdd.md",
+      "2026-09-03-obsidian-mcp.md",
+      "2026-09-04-ai-code-review.md",
+      "2026-09-04-ai-in-legacy-systems.md",
+      "2026-09-04-context-engineering.md",
+      "2026-09-04-model-context-protocol-mcp.md",
+      "2026-09-04-vector-search-embeddings.md",
+      "2026-09-04-who-is-responsible-for-ai-generated-code.md",
+      "2026-09-07-agent-ready-codebase.md"
+    ]
+  },
+  "ru": {
+    "locale": "ru",
+    "essays": 9,
+    "words_written": 39141,
+    "files": [
+      "2026-01-11-atomarnye-kommity-acdd.md",
+      "2026-09-03-obsidian-mcp.md",
+      "2026-09-04-chto-takoe-mcp.md",
+      "2026-09-04-code-review-s-ai.md",
+      "2026-09-04-context-engineering.md",
+      "2026-09-04-kak-vnedrit-ai-v-legacy.md",
+      "2026-09-04-kto-otvechaet-za-kod-ai.md",
+      "2026-09-04-vector-search-embeddings.md",
+      "2026-09-07-agent-ready-codebase.md"
+    ]
+  }
+}
